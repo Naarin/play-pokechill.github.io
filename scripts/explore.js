@@ -989,9 +989,9 @@ function leaveCombat(){
 
         
         
-    if (saved.autoRefight == true) {
+
         rejoinArea()
-    }
+
 
 
 
@@ -7601,6 +7601,7 @@ window.addEventListener('load', function() {
 
     //updateTeamExp()
 });
+
 
 
 
