@@ -1,6 +1,6 @@
 
 
-saved.overrideBattleTimer = defaultPlayerMoveTimer
+saved.overrideBattleTimer = defaultPlayerMoveTimer * 0.25
 //let saved.overrideBattleTimer = defaultPlayerMoveTimer
 
 let team = {}
@@ -7601,6 +7601,7 @@ window.addEventListener('load', function() {
 
     //updateTeamExp()
 });
+
 
 
 
