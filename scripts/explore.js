@@ -989,9 +989,7 @@ function leaveCombat(){
 
         
         
-
         rejoinArea()
-
 
 
 
@@ -7601,6 +7599,7 @@ window.addEventListener('load', function() {
 
     //updateTeamExp()
 });
+
 
 
 
